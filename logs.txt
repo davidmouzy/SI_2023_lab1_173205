@@ -1,0 +1,2 @@
+Mnogupati pravev restart na git-bash poradi klikanje pogresni hotkeys.
+Dokolku e potrebno mozam da dojdam na uvid/konsultacii za proverka na znaenje
